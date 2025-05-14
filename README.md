@@ -142,14 +142,12 @@ int main(int argc, char *argv[]) {
     return 0;
 }
 
-
+```
 
 
 ## OUTPUT
 ![catfile](./ime/2.png)
-
 ![catfile](./ime/3.png)
-
 
 # RESULT:
 The programs are executed successfully.
